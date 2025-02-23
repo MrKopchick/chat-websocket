@@ -1,4 +1,4 @@
-# Chat WebSocket
+# Simple chat using webSocket
 
 This project is a simple online chat demonstrating the use of WebSocket.
 The backend is built on Node.js using the `ws` library, and the frontend is implemented with React.
