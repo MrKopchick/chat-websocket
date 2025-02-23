@@ -1,7 +1,7 @@
 # Simple chat using webSocket
 
 This project is a simple online chat demonstrating the use of WebSocket.
-The backend is built on Node.js using the `ws` library, and the frontend is implemented with React.
+The backend is built on Node.js and the frontend is implemented with React.
 
 ## Features
 - Real-time user connections
