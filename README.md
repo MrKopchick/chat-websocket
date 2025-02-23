@@ -12,6 +12,6 @@ Usually it will spin on `http://localhost:5173`
 <pre>
 cd backend
 npm install
-&& node server.js
+node server.js
 </pre>
 
